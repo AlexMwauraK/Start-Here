@@ -3,19 +3,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexmwaurak" alt="alexmwaurak" /></a> </p>
 
-- 🔭 I’m currently working on [My website](https://celadon-fairy-aead0a.netlify.app/)
+- 🔭 I’m currently working on [My website](https://celadon-fairy-aead0a.netlify.app/)⚡
 
 - 🌱 I’m currently learning **Java script & Node Js**
 
 - 👨‍💻 All of my projects are available at [https://celadon-fairy-aead0a.netlify.app/](https://celadon-fairy-aead0a.netlify.app/html/portfolio.html)
 
-- 💬 Ask me about **Html, Css, Python,Php**
-
-- 📫 How to reach me **alecsmwaura@gmail.com**
-
 - 📄 Know about my experiences [https://www.instagram.com/lexcy.__/](https://www.instagram.com/lexcy.__/)
 
-- ⚡ Fun fact **everyone is born genius**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
