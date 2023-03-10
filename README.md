@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java script & Node Js**
 
-- 👨‍💻 All of my projects are available at [https://celadon-fairy-aead0a.netlify.app/](https://celadon-fairy-aead0a.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://celadon-fairy-aead0a.netlify.app/](https://celadon-fairy-aead0a.netlify.app/html/portfolio.html)
 
 - 💬 Ask me about **Html, Css, Python,Php**
 
